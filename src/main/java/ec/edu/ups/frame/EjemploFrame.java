@@ -53,7 +53,7 @@ public class EjemploFrame {
         //-----Posicionamiento con un constructor----- 
         //MiVentana v3 = new MiVentana("Ventana3", 400, 200, 400, 100);
         
-        //Boton1
+        //-----Boton1-----
         //Frame miVentana = new Frame();
         //Button botonHola = new Button("Hola");
         //miVentana.setSize(400, 200);
@@ -84,18 +84,15 @@ public class EjemploFrame {
         //Panel panelPrincipal = new Panel();
         //Panel panelIzq = new Panel();
         //Panel panelDcha = new Panel();
-        
         //Button botonCorrer = new Button("Correr");
         //Button botonSaltar = new Button("Saltar");
         //Button botonDescansar = new Button("Descansar");
-        
         //miMarco.add(panelPrincipal);
         //panelPrincipal.add(panelIzq);
         //panelPrincipal.add(panelDcha);
         //panelIzq.add(botonCorrer);
         //panelIzq.add(botonSaltar);
         //panelDcha.add(botonDescansar);
-        
         //miMarco.setSize(400,200);
         //miMarco.setTitle("Ventana con paneles");
         //miMarco.setVisible(true);
@@ -166,9 +163,7 @@ public class EjemploFrame {
         //-----Etiqueta-----
         //Frame miMarco = new Frame();
         //Label titulo = new Label("Notas de matematicas");
-        
         //miMarco.add(titulo);
-        
         //miMarco.setSize(200,100);
         //miMarco.setTitle("Ventana con etiqueta");
         //miMarco.setVisible(true);
@@ -179,11 +174,9 @@ public class EjemploFrame {
         //TextField nombre = new TextField(15);
         //TextField apellidos = new TextField(60);
         //TextField nacionalidad = new TextField("Espanola",15);
-        
         //entradaDeDatos.add(nombre);
         //entradaDeDatos.add(apellidos);
         //entradaDeDatos.add(nacionalidad);
-        
         //miMarco.add(entradaDeDatos);
         //miMarco.setSize(500, 130);
         //miMarco.setTitle("Ventana con campos de texto");
@@ -239,7 +232,7 @@ public class EjemploFrame {
         //miVentana.setVisible(true);
         //boton2.addKeyListener(new InterrupcionesDeTeclado());
         
-        //Windowlistener
+        //-----Windowlistener-----
         //Frame miVentana = new Frame("Prueba eventos de ventana");
         //miVentana.setSize(200, 100);
         //miVentana.setVisible(true);
